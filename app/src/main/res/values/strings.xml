@@ -1,0 +1,31 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">The Reed, bamboo: Our internal self. Conduit of heat and energy. Represents intelligence, observation, analysis, memory and the sub-conscious. Through the subconscious he can be all places and see all things, even with his eyes bandaged. Akatl can unite the collective intentions to make even nature fulfill its mission.</string>
+    <string name="affirmation2">The Water: Our growth. It is a vital element and it possibilizes life and purifies it. It adopts the shape of the container that holds it. It is the duality of the fire and has constant creating activities and is penetrating and perseverant.</string>
+    <string name="affirmation3">The Wind: Our Breath of life and the medium of all living beings; it carries the sounds and symbolizes creativity and harmony.</string>
+    <string name="affirmation4">The House: Our home, refuge and house of thoughts; a safe place for reflection and regrouping for the comprehension of all living beings..</string>
+    <string name="affirmation5">The Rain: Our teardrops, peaceful and furious at its time. Sensitivity, the concept of Tlalok, Tlal = earth, Ok = a drink = What the earth drinks, to give us life.</string>
+    <string name="affirmation6">The Serpent: Our knowledge and wisdom. Represents energy and fertility, and of the senses it represents the touch, and is associated with the twins and the earth.</string>
+    <string name="affirmation7">The Condor: Our youth and a moment of reflection and remedy. Reflect to find the teachings and remedy the faults. Find life where there is, apparently, no life.</string>
+    <string name="affirmation8">The Eagle: Our vision; a solar symbol. This is the physical and spiritual renovation, purification and cleansing of ourselves and our environment. Here is the presence of freedom and liberty and a guardian of the house of creating energy, Teokalli.</string>
+    <string name="affirmation9">The Lizard: Our maternal womb. Representing the Mother Earth associated with fertility, nurturing and the capability of regeneration.</string>
+    <string name="affirmation10">The Herb: Our umbilical cord and the constant regeneration of nature. It also represents all Flora, these are all medicinal, if we use them wisely.</string>
+    <string name="affirmation11">The Deer: Symbolizes our agility, instinct, intuition, perception and sensibility, as well as all the Fauna. The deer is activated by the energy of the Sun and is a messenger of love and peace from the grandfathers.</string>
+    <string name="affirmation12">The Skull: Our silence and transformation. Represents the reevaluation of life and death and of things done and things left to be done.</string>
+</resources>
+
